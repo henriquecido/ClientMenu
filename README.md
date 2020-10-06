@@ -1,4 +1,4 @@
-# CRUDClientePedidos
+# ClientePedidos
 
 ![Github crud](https://github.com/henriquecido/CRUDClientePedidos/blob/master/image/crudpedidosreadme.png)
 
