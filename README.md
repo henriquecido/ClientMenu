@@ -10,7 +10,7 @@ Tive como base uma lanchonete próximo de casa, cujo nome é Skina Lanches, adic
 
 Adicionei alguns tratamentos de erro, mas não todos possíveis.
 
-Para executar apenas fazer um Fork para sua máquina, e dar Run(F5) na pasta se você estiver pelo visual code.
+Para executar apenas fazer um clone do repositório para sua máquina, e dar Run(F5) na pasta se você estiver pelo visual code.
 
 Até o momento,
 
