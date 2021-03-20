@@ -1,7 +1,5 @@
 # ClientePedidos
 
-![Github crud](https://github.com/henriquecido/CRUDClientePedidos/blob/master/image/crudpedidosreadme.png)
-
 ## Sobre
 
 CRUD feito em Java do Cliente e de seu Pedido.
