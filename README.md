@@ -1,17 +1,11 @@
-# ClientePedidos
+# ClientMenu
 
-## Sobre
+## About
 
-CRUD feito em Java do Cliente e de seu Pedido.
+CRUD done in Java by the Client and his Order. I was based on a cafeteria close to home, whose name is Skina Lanches, I added a mini-menu for the user.
 
-Tive como base uma lanchonete próximo de casa, cujo nome é Skina Lanches, adicionei um mini-cardápio para o usuário.
+Some error treatments, but not all possible.
 
-Adicionei alguns tratamentos de erro, mas não todos possíveis.
+Until now,
 
-Para executar apenas fazer um clone do repositório para sua máquina, e dar Run(F5) na pasta se você estiver pelo visual code.
-
-Até o momento,
-
-O programa está sem front, mas breve vou adicionar, sua visualização vai ser pelo console de sua preferência.
-
-Atenciosamente.
+The program is without front, but soon I will add, its visualization will be through the console of your preference.
